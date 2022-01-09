@@ -1,0 +1,512 @@
+[{
+  "_id": {
+    "$oid": "61b64a8ec022904e271ae7a4"
+  },
+  "tconst": "tt1480055",
+  "averageRating": "9.1",
+  "numVotes": "44596"
+},{
+  "_id": {
+    "$oid": "61b64a8ec022904e271ae7a5"
+  },
+  "tconst": "tt1668746",
+  "averageRating": "8.8",
+  "numVotes": "33936"
+},{
+  "_id": {
+    "$oid": "61b64a8ec022904e271ae7a6"
+  },
+  "tconst": "tt1829962",
+  "averageRating": "8.7",
+  "numVotes": "32139"
+},{
+  "_id": {
+    "$oid": "61b64a8ec022904e271ae7a7"
+  },
+  "tconst": "tt1829963",
+  "averageRating": "8.8",
+  "numVotes": "30562"
+},{
+  "_id": {
+    "$oid": "61b64a8ec022904e271ae7a8"
+  },
+  "tconst": "tt1829964",
+  "averageRating": "9.1",
+  "numVotes": "31777"
+},{
+  "_id": {
+    "$oid": "61b64a8ec022904e271ae7a9"
+  },
+  "tconst": "tt1837862",
+  "averageRating": "9.2",
+  "numVotes": "31431"
+},{
+  "_id": {
+    "$oid": "61b64a8ec022904e271ae7aa"
+  },
+  "tconst": "tt1837863",
+  "averageRating": "9.2",
+  "numVotes": "31958"
+},{
+  "_id": {
+    "$oid": "61b64a8ec022904e271ae7ab"
+  },
+  "tconst": "tt1837864",
+  "averageRating": "9",
+  "numVotes": "29900"
+},{
+  "_id": {
+    "$oid": "61b64a8ec022904e271ae7ac"
+  },
+  "tconst": "tt1851398",
+  "averageRating": "9.6",
+  "numVotes": "41710"
+},{
+  "_id": {
+    "$oid": "61b64a8ec022904e271ae7ad"
+  },
+  "tconst": "tt1851397",
+  "averageRating": "9.5",
+  "numVotes": "36755"
+},{
+  "_id": {
+    "$oid": "61b64a8ec022904e271ae7ae"
+  },
+  "tconst": "tt1971833",
+  "averageRating": "8.8",
+  "numVotes": "28787"
+},{
+  "_id": {
+    "$oid": "61b64a8ec022904e271ae7af"
+  },
+  "tconst": "tt2069318",
+  "averageRating": "8.5",
+  "numVotes": "27268"
+},{
+  "_id": {
+    "$oid": "61b64a8ec022904e271ae7b0"
+  },
+  "tconst": "tt2070135",
+  "averageRating": "8.8",
+  "numVotes": "26962"
+},{
+  "_id": {
+    "$oid": "61b64a8ec022904e271ae7b1"
+  },
+  "tconst": "tt2069319",
+  "averageRating": "8.8",
+  "numVotes": "26131"
+},{
+  "_id": {
+    "$oid": "61b64a8ec022904e271ae7b2"
+  },
+  "tconst": "tt2074658",
+  "averageRating": "8.8",
+  "numVotes": "26299"
+},{
+  "_id": {
+    "$oid": "61b64a8ec022904e271ae7b3"
+  },
+  "tconst": "tt2085238",
+  "averageRating": "9.1",
+  "numVotes": "27434"
+},{
+  "_id": {
+    "$oid": "61b64a8ec022904e271ae7b4"
+  },
+  "tconst": "tt2085239",
+  "averageRating": "8.9",
+  "numVotes": "26729"
+},{
+  "_id": {
+    "$oid": "61b64a8ec022904e271ae7b5"
+  },
+  "tconst": "tt2085240",
+  "averageRating": "8.8",
+  "numVotes": "26435"
+},{
+  "_id": {
+    "$oid": "61b64a8ec022904e271ae7b6"
+  },
+  "tconst": "tt2084342",
+  "averageRating": "9.7",
+  "numVotes": "45364"
+},{
+  "_id": {
+    "$oid": "61b64a8ec022904e271ae7b7"
+  },
+  "tconst": "tt2112510",
+  "averageRating": "9.4",
+  "numVotes": "32325"
+},{
+  "_id": {
+    "$oid": "61b64a8ec022904e271ae7b8"
+  },
+  "tconst": "tt2178782",
+  "averageRating": "8.8",
+  "numVotes": "28519"
+},{
+  "_id": {
+    "$oid": "61b64a8ec022904e271ae7b9"
+  },
+  "tconst": "tt2178772",
+  "averageRating": "8.6",
+  "numVotes": "26083"
+},{
+  "_id": {
+    "$oid": "61b64a8ec022904e271ae7ba"
+  },
+  "tconst": "tt2178802",
+  "averageRating": "8.9",
+  "numVotes": "26349"
+},{
+  "_id": {
+    "$oid": "61b64a8ec022904e271ae7bb"
+  },
+  "tconst": "tt2178798",
+  "averageRating": "9.6",
+  "numVotes": "35504"
+},{
+  "_id": {
+    "$oid": "61b64a8ec022904e271ae7bc"
+  },
+  "tconst": "tt2178788",
+  "averageRating": "9",
+  "numVotes": "26958"
+},{
+  "_id": {
+    "$oid": "61b64a8ec022904e271ae7bd"
+  },
+  "tconst": "tt2178812",
+  "averageRating": "8.8",
+  "numVotes": "26694"
+},{
+  "_id": {
+    "$oid": "61b64a8ec022904e271ae7be"
+  },
+  "tconst": "tt2178814",
+  "averageRating": "8.7",
+  "numVotes": "25881"
+},{
+  "_id": {
+    "$oid": "61b64a8ec022904e271ae7bf"
+  },
+  "tconst": "tt2178806",
+  "averageRating": "9",
+  "numVotes": "26539"
+},{
+  "_id": {
+    "$oid": "61b64a8ec022904e271ae7c0"
+  },
+  "tconst": "tt2178784",
+  "averageRating": "9.9",
+  "numVotes": "97757"
+},{
+  "_id": {
+    "$oid": "61b64a8ec022904e271ae7c1"
+  },
+  "tconst": "tt2178796",
+  "averageRating": "9.2",
+  "numVotes": "29793"
+},{
+  "_id": {
+    "$oid": "61b64a8ec022904e271ae7c2"
+  },
+  "tconst": "tt2816136",
+  "averageRating": "9.1",
+  "numVotes": "33104"
+},{
+  "_id": {
+    "$oid": "61b64a8ec022904e271ae7c3"
+  },
+  "tconst": "tt2832378",
+  "averageRating": "9.7",
+  "numVotes": "51272"
+},{
+  "_id": {
+    "$oid": "61b64a8ec022904e271ae7c4"
+  },
+  "tconst": "tt2972426",
+  "averageRating": "8.9",
+  "numVotes": "28368"
+},{
+  "_id": {
+    "$oid": "61b64a8ec022904e271ae7c5"
+  },
+  "tconst": "tt2972428",
+  "averageRating": "8.8",
+  "numVotes": "27298"
+},{
+  "_id": {
+    "$oid": "61b64a8ec022904e271ae7c6"
+  },
+  "tconst": "tt3060856",
+  "averageRating": "8.8",
+  "numVotes": "26534"
+},{
+  "_id": {
+    "$oid": "61b64a8ec022904e271ae7c7"
+  },
+  "tconst": "tt3060910",
+  "averageRating": "9.7",
+  "numVotes": "48373"
+},{
+  "_id": {
+    "$oid": "61b64a8ec022904e271ae7c8"
+  },
+  "tconst": "tt3060876",
+  "averageRating": "9.1",
+  "numVotes": "29312"
+},{
+  "_id": {
+    "$oid": "61b64a8ec022904e271ae7c9"
+  },
+  "tconst": "tt3060782",
+  "averageRating": "9.7",
+  "numVotes": "51316"
+},{
+  "_id": {
+    "$oid": "61b64a8ec022904e271ae7ca"
+  },
+  "tconst": "tt3060858",
+  "averageRating": "9.6",
+  "numVotes": "43944"
+},{
+  "_id": {
+    "$oid": "61b64a8ec022904e271ae7cb"
+  },
+  "tconst": "tt3060860",
+  "averageRating": "9.7",
+  "numVotes": "43334"
+},{
+  "_id": {
+    "$oid": "61b64a8ec022904e271ae7cc"
+  },
+  "tconst": "tt3658012",
+  "averageRating": "8.5",
+  "numVotes": "29111"
+},{
+  "_id": {
+    "$oid": "61b64a8ec022904e271ae7cd"
+  },
+  "tconst": "tt3846626",
+  "averageRating": "8.5",
+  "numVotes": "26005"
+},{
+  "_id": {
+    "$oid": "61b64a8ec022904e271ae7ce"
+  },
+  "tconst": "tt3866836",
+  "averageRating": "8.5",
+  "numVotes": "25237"
+},{
+  "_id": {
+    "$oid": "61b64a8ec022904e271ae7cf"
+  },
+  "tconst": "tt3866838",
+  "averageRating": "8.7",
+  "numVotes": "25882"
+},{
+  "_id": {
+    "$oid": "61b64a8ec022904e271ae7d0"
+  },
+  "tconst": "tt3866840",
+  "averageRating": "8.6",
+  "numVotes": "26119"
+},{
+  "_id": {
+    "$oid": "61b64a8ec022904e271ae7d1"
+  },
+  "tconst": "tt3866842",
+  "averageRating": "8",
+  "numVotes": "29299"
+},{
+  "_id": {
+    "$oid": "61b64a8ec022904e271ae7d2"
+  },
+  "tconst": "tt3866846",
+  "averageRating": "9",
+  "numVotes": "28359"
+},{
+  "_id": {
+    "$oid": "61b64a8ec022904e271ae7d3"
+  },
+  "tconst": "tt3866850",
+  "averageRating": "9.9",
+  "numVotes": "95599"
+},{
+  "_id": {
+    "$oid": "61b64a8ec022904e271ae7d4"
+  },
+  "tconst": "tt3866826",
+  "averageRating": "9.5",
+  "numVotes": "42005"
+},{
+  "_id": {
+    "$oid": "61b64a8ec022904e271ae7d5"
+  },
+  "tconst": "tt3866862",
+  "averageRating": "9.1",
+  "numVotes": "40724"
+},{
+  "_id": {
+    "$oid": "61b64a8ec022904e271ae7d6"
+  },
+  "tconst": "tt3658014",
+  "averageRating": "8.5",
+  "numVotes": "38573"
+},{
+  "_id": {
+    "$oid": "61b64a8ec022904e271ae7d7"
+  },
+  "tconst": "tt4077554",
+  "averageRating": "9.4",
+  "numVotes": "45217"
+},{
+  "_id": {
+    "$oid": "61b64a8ec022904e271ae7d8"
+  },
+  "tconst": "tt4131606",
+  "averageRating": "8.7",
+  "numVotes": "32755"
+},{
+  "_id": {
+    "$oid": "61b64a8ec022904e271ae7d9"
+  },
+  "tconst": "tt4283016",
+  "averageRating": "9.1",
+  "numVotes": "35195"
+},{
+  "_id": {
+    "$oid": "61b64a8ec022904e271ae7da"
+  },
+  "tconst": "tt4283028",
+  "averageRating": "9.7",
+  "numVotes": "68280"
+},{
+  "_id": {
+    "$oid": "61b64a8ec022904e271ae7db"
+  },
+  "tconst": "tt4283054",
+  "averageRating": "8.4",
+  "numVotes": "32498"
+},{
+  "_id": {
+    "$oid": "61b64a8ec022904e271ae7dc"
+  },
+  "tconst": "tt4283060",
+  "averageRating": "8.6",
+  "numVotes": "31653"
+},{
+  "_id": {
+    "$oid": "61b64a8ec022904e271ae7dd"
+  },
+  "tconst": "tt4283074",
+  "averageRating": "8.4",
+  "numVotes": "35780"
+},{
+  "_id": {
+    "$oid": "61b64a8ec022904e271ae7de"
+  },
+  "tconst": "tt4283088",
+  "averageRating": "9.9",
+  "numVotes": "198653"
+},{
+  "_id": {
+    "$oid": "61b64a8ec022904e271ae7df"
+  },
+  "tconst": "tt4283094",
+  "averageRating": "9.9",
+  "numVotes": "139450"
+},{
+  "_id": {
+    "$oid": "61b64a8ec022904e271ae7e0"
+  },
+  "tconst": "tt5654088",
+  "averageRating": "8.6",
+  "numVotes": "49285"
+},{
+  "_id": {
+    "$oid": "61b64a8ec022904e271ae7e1"
+  },
+  "tconst": "tt5655178",
+  "averageRating": "8.9",
+  "numVotes": "42829"
+},{
+  "_id": {
+    "$oid": "61b64a8ec022904e271ae7e2"
+  },
+  "tconst": "tt5775840",
+  "averageRating": "9.2",
+  "numVotes": "44778"
+},{
+  "_id": {
+    "$oid": "61b64a8ec022904e271ae7e3"
+  },
+  "tconst": "tt5775846",
+  "averageRating": "9.8",
+  "numVotes": "84818"
+},{
+  "_id": {
+    "$oid": "61b64a8ec022904e271ae7e4"
+  },
+  "tconst": "tt5775854",
+  "averageRating": "8.8",
+  "numVotes": "42586"
+},{
+  "_id": {
+    "$oid": "61b64a8ec022904e271ae7e5"
+  },
+  "tconst": "tt5775864",
+  "averageRating": "9",
+  "numVotes": "61927"
+},{
+  "_id": {
+    "$oid": "61b64a8ec022904e271ae7e6"
+  },
+  "tconst": "tt5775874",
+  "averageRating": "9.4",
+  "numVotes": "61724"
+},{
+  "_id": {
+    "$oid": "61b64a8ec022904e271ae7e7"
+  },
+  "tconst": "tt5924366",
+  "averageRating": "7.5",
+  "numVotes": "128634"
+},{
+  "_id": {
+    "$oid": "61b64a8ec022904e271ae7e8"
+  },
+  "tconst": "tt6027908",
+  "averageRating": "7.8",
+  "numVotes": "126920"
+},{
+  "_id": {
+    "$oid": "61b64a8ec022904e271ae7e9"
+  },
+  "tconst": "tt6027912",
+  "averageRating": "7.4",
+  "numVotes": "210187"
+},{
+  "_id": {
+    "$oid": "61b64a8ec022904e271ae7ea"
+  },
+  "tconst": "tt6027914",
+  "averageRating": "5.4",
+  "numVotes": "160721"
+},{
+  "_id": {
+    "$oid": "61b64a8ec022904e271ae7eb"
+  },
+  "tconst": "tt6027916",
+  "averageRating": "5.9",
+  "numVotes": "187221"
+},{
+  "_id": {
+    "$oid": "61b64a8ec022904e271ae7ec"
+  },
+  "tconst": "tt6027920",
+  "averageRating": "4",
+  "numVotes": "238095"
+}]

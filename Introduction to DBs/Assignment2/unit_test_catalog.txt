@@ -1,0 +1,84 @@
+unit_test_catalog.txt
+
+-----------------------------------------------------------------------------------
+"/Users/chandansuri/.conda/envs/HW0 Test/bin/python" "/Users/chandansuri/Assignments/Introduction to DBs/Assignment2/unit_test_catalog.py"
+Adding test_table_1 with file name test_path_file_1.csv...
+Running save core definition
+Q =  insert into csvtables values(%s, %s)
+Q =  select * from csvtables where table_name = 'test_table_1'
+Q =  select * from csvcolumns WHERE table_name = 'test_table_1'
+Q =  select column_name, index_name, type, index_order from csvindexes where table_name = 'test_table_1'
+Table =  in the index if statement
+{
+  "table_name": "test_table_1",
+  "file_name": "test_path_file_1.csv",
+  "columns": [],
+  "indexes": []
+}
+Adding test_table_2 with file name test_path_file_2.csv...
+Running save core definition
+Q =  insert into csvtables values(%s, %s)
+Q =  select * from csvtables where table_name = 'test_table_2'
+Q =  select * from csvcolumns WHERE table_name = 'test_table_2'
+Q =  select column_name, index_name, type, index_order from csvindexes where table_name = 'test_table_2'
+Table =  in the index if statement
+{
+  "table_name": "test_table_2",
+  "file_name": "test_path_file_2.csv",
+  "columns": [],
+  "indexes": []
+}
+Adding test_table_3 with file name test_path_file_3.csv...
+Running save core definition
+Q =  insert into csvtables values(%s, %s)
+Q =  select * from csvtables where table_name = 'test_table_3'
+Q =  select * from csvcolumns WHERE table_name = 'test_table_3'
+Q =  select column_name, index_name, type, index_order from csvindexes where table_name = 'test_table_3'
+Table =  in the index if statement
+{
+  "table_name": "test_table_3",
+  "file_name": "test_path_file_3.csv",
+  "columns": [],
+  "indexes": []
+}
+Adding test_table_4 with file name test_path_file_4.csv...
+Running save core definition
+Q =  insert into csvtables values(%s, %s)
+Q =  select * from csvtables where table_name = 'test_table_4'
+Q =  select * from csvcolumns WHERE table_name = 'test_table_4'
+Q =  select column_name, index_name, type, index_order from csvindexes where table_name = 'test_table_4'
+Table =  in the index if statement
+{
+  "table_name": "test_table_4",
+  "file_name": "test_path_file_4.csv",
+  "columns": [],
+  "indexes": []
+}
+Adding test_table_5 with file name test_path_file_5.csv...
+Running save core definition
+Q =  insert into csvtables values(%s, %s)
+Q =  select * from csvtables where table_name = 'test_table_5'
+Q =  select * from csvcolumns WHERE table_name = 'test_table_5'
+Q =  select column_name, index_name, type, index_order from csvindexes where table_name = 'test_table_5'
+Table =  in the index if statement
+{
+  "table_name": "test_table_5",
+  "file_name": "test_path_file_5.csv",
+  "columns": [],
+  "indexes": []
+}
+
+Process finished with exit code 0
+-----------------------------------------------------------------------------------
+"/Users/chandansuri/.conda/envs/HW0 Test/bin/python" "/Users/chandansuri/Assignments/Introduction to DBs/Assignment2/unit_test_catalog.py"
+Dropping test_table_4 ...
+Q =  DELETE FROM csvtables WHERE table_name = 'test_table_4'
+Table 'test_table_4' was dropped
+Dropping test_table_5 ...
+Q =  DELETE FROM csvtables WHERE table_name = 'test_table_5'
+Table 'test_table_5' was dropped
+
+Process finished with exit code 0
+-----------------------------------------------------------------------------------
+
+

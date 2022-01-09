@@ -1,0 +1,950 @@
+[{
+  "_id": {
+    "$oid": "61b64a65c022904e271ae759"
+  },
+  "tconst": "tt1480055",
+  "titleType": "tvEpisode",
+  "primaryTitle": "Winter Is Coming",
+  "originalTitle": "Winter Is Coming",
+  "isAdult": "0",
+  "startYear": "2011",
+  "endYear": "\\N",
+  "runtimeMinutes": "62",
+  "genres": "Action,Adventure,Drama"
+},{
+  "_id": {
+    "$oid": "61b64a66c022904e271ae75a"
+  },
+  "tconst": "tt1668746",
+  "titleType": "tvEpisode",
+  "primaryTitle": "The Kingsroad",
+  "originalTitle": "The Kingsroad",
+  "isAdult": "0",
+  "startYear": "2011",
+  "endYear": "\\N",
+  "runtimeMinutes": "56",
+  "genres": "Action,Adventure,Drama"
+},{
+  "_id": {
+    "$oid": "61b64a66c022904e271ae75b"
+  },
+  "tconst": "tt1829962",
+  "titleType": "tvEpisode",
+  "primaryTitle": "Lord Snow",
+  "originalTitle": "Lord Snow",
+  "isAdult": "0",
+  "startYear": "2011",
+  "endYear": "\\N",
+  "runtimeMinutes": "58",
+  "genres": "Action,Adventure,Drama"
+},{
+  "_id": {
+    "$oid": "61b64a66c022904e271ae75c"
+  },
+  "tconst": "tt1829963",
+  "titleType": "tvEpisode",
+  "primaryTitle": "Cripples, Bastards, and Broken Things",
+  "originalTitle": "Cripples, Bastards, and Broken Things",
+  "isAdult": "0",
+  "startYear": "2011",
+  "endYear": "\\N",
+  "runtimeMinutes": "56",
+  "genres": "Action,Adventure,Drama"
+},{
+  "_id": {
+    "$oid": "61b64a66c022904e271ae75d"
+  },
+  "tconst": "tt1829964",
+  "titleType": "tvEpisode",
+  "primaryTitle": "The Wolf and the Lion",
+  "originalTitle": "The Wolf and the Lion",
+  "isAdult": "0",
+  "startYear": "2011",
+  "endYear": "\\N",
+  "runtimeMinutes": "55",
+  "genres": "Action,Adventure,Drama"
+},{
+  "_id": {
+    "$oid": "61b64a66c022904e271ae75e"
+  },
+  "tconst": "tt1837862",
+  "titleType": "tvEpisode",
+  "primaryTitle": "A Golden Crown",
+  "originalTitle": "A Golden Crown",
+  "isAdult": "0",
+  "startYear": "2011",
+  "endYear": "\\N",
+  "runtimeMinutes": "53",
+  "genres": "Action,Adventure,Drama"
+},{
+  "_id": {
+    "$oid": "61b64a66c022904e271ae75f"
+  },
+  "tconst": "tt1837863",
+  "titleType": "tvEpisode",
+  "primaryTitle": "You Win or You Die",
+  "originalTitle": "You Win or You Die",
+  "isAdult": "0",
+  "startYear": "2011",
+  "endYear": "\\N",
+  "runtimeMinutes": "58",
+  "genres": "Action,Adventure,Drama"
+},{
+  "_id": {
+    "$oid": "61b64a66c022904e271ae760"
+  },
+  "tconst": "tt1837864",
+  "titleType": "tvEpisode",
+  "primaryTitle": "The Pointy End",
+  "originalTitle": "The Pointy End",
+  "isAdult": "0",
+  "startYear": "2011",
+  "endYear": "\\N",
+  "runtimeMinutes": "59",
+  "genres": "Action,Adventure,Drama"
+},{
+  "_id": {
+    "$oid": "61b64a66c022904e271ae761"
+  },
+  "tconst": "tt1851398",
+  "titleType": "tvEpisode",
+  "primaryTitle": "Baelor",
+  "originalTitle": "Baelor",
+  "isAdult": "0",
+  "startYear": "2011",
+  "endYear": "\\N",
+  "runtimeMinutes": "57",
+  "genres": "Action,Adventure,Drama"
+},{
+  "_id": {
+    "$oid": "61b64a66c022904e271ae762"
+  },
+  "tconst": "tt1851397",
+  "titleType": "tvEpisode",
+  "primaryTitle": "Fire and Blood",
+  "originalTitle": "Fire and Blood",
+  "isAdult": "0",
+  "startYear": "2011",
+  "endYear": "\\N",
+  "runtimeMinutes": "53",
+  "genres": "Action,Adventure,Drama"
+},{
+  "_id": {
+    "$oid": "61b64a66c022904e271ae763"
+  },
+  "tconst": "tt1971833",
+  "titleType": "tvEpisode",
+  "primaryTitle": "The North Remembers",
+  "originalTitle": "The North Remembers",
+  "isAdult": "0",
+  "startYear": "2012",
+  "endYear": "\\N",
+  "runtimeMinutes": "53",
+  "genres": "Action,Adventure,Drama"
+},{
+  "_id": {
+    "$oid": "61b64a66c022904e271ae764"
+  },
+  "tconst": "tt2069318",
+  "titleType": "tvEpisode",
+  "primaryTitle": "The Night Lands",
+  "originalTitle": "The Night Lands",
+  "isAdult": "0",
+  "startYear": "2012",
+  "endYear": "\\N",
+  "runtimeMinutes": "54",
+  "genres": "Action,Adventure,Drama"
+},{
+  "_id": {
+    "$oid": "61b64a66c022904e271ae765"
+  },
+  "tconst": "tt2070135",
+  "titleType": "tvEpisode",
+  "primaryTitle": "What Is Dead May Never Die",
+  "originalTitle": "What Is Dead May Never Die",
+  "isAdult": "0",
+  "startYear": "2012",
+  "endYear": "\\N",
+  "runtimeMinutes": "53",
+  "genres": "Action,Adventure,Drama"
+},{
+  "_id": {
+    "$oid": "61b64a66c022904e271ae766"
+  },
+  "tconst": "tt2069319",
+  "titleType": "tvEpisode",
+  "primaryTitle": "Garden of Bones",
+  "originalTitle": "Garden of Bones",
+  "isAdult": "0",
+  "startYear": "2012",
+  "endYear": "\\N",
+  "runtimeMinutes": "51",
+  "genres": "Action,Adventure,Drama"
+},{
+  "_id": {
+    "$oid": "61b64a66c022904e271ae767"
+  },
+  "tconst": "tt2074658",
+  "titleType": "tvEpisode",
+  "primaryTitle": "The Ghost of Harrenhal",
+  "originalTitle": "The Ghost of Harrenhal",
+  "isAdult": "0",
+  "startYear": "2012",
+  "endYear": "\\N",
+  "runtimeMinutes": "55",
+  "genres": "Action,Adventure,Drama"
+},{
+  "_id": {
+    "$oid": "61b64a66c022904e271ae768"
+  },
+  "tconst": "tt2085238",
+  "titleType": "tvEpisode",
+  "primaryTitle": "The Old Gods and the New",
+  "originalTitle": "The Old Gods and the New",
+  "isAdult": "0",
+  "startYear": "2012",
+  "endYear": "\\N",
+  "runtimeMinutes": "54",
+  "genres": "Action,Adventure,Drama"
+},{
+  "_id": {
+    "$oid": "61b64a66c022904e271ae769"
+  },
+  "tconst": "tt2085239",
+  "titleType": "tvEpisode",
+  "primaryTitle": "A Man Without Honor",
+  "originalTitle": "A Man Without Honor",
+  "isAdult": "0",
+  "startYear": "2012",
+  "endYear": "\\N",
+  "runtimeMinutes": "56",
+  "genres": "Action,Adventure,Drama"
+},{
+  "_id": {
+    "$oid": "61b64a66c022904e271ae76a"
+  },
+  "tconst": "tt2085240",
+  "titleType": "tvEpisode",
+  "primaryTitle": "The Prince of Winterfell",
+  "originalTitle": "The Prince of Winterfell",
+  "isAdult": "0",
+  "startYear": "2012",
+  "endYear": "\\N",
+  "runtimeMinutes": "54",
+  "genres": "Action,Adventure,Drama"
+},{
+  "_id": {
+    "$oid": "61b64a66c022904e271ae76b"
+  },
+  "tconst": "tt2084342",
+  "titleType": "tvEpisode",
+  "primaryTitle": "Blackwater",
+  "originalTitle": "Blackwater",
+  "isAdult": "0",
+  "startYear": "2012",
+  "endYear": "\\N",
+  "runtimeMinutes": "55",
+  "genres": "Action,Adventure,Drama"
+},{
+  "_id": {
+    "$oid": "61b64a66c022904e271ae76c"
+  },
+  "tconst": "tt2112510",
+  "titleType": "tvEpisode",
+  "primaryTitle": "Valar Morghulis",
+  "originalTitle": "Valar Morghulis",
+  "isAdult": "0",
+  "startYear": "2012",
+  "endYear": "\\N",
+  "runtimeMinutes": "64",
+  "genres": "Action,Adventure,Drama"
+},{
+  "_id": {
+    "$oid": "61b64a66c022904e271ae76d"
+  },
+  "tconst": "tt2178782",
+  "titleType": "tvEpisode",
+  "primaryTitle": "Valar Dohaeris",
+  "originalTitle": "Valar Dohaeris",
+  "isAdult": "0",
+  "startYear": "2013",
+  "endYear": "\\N",
+  "runtimeMinutes": "55",
+  "genres": "Action,Adventure,Drama"
+},{
+  "_id": {
+    "$oid": "61b64a66c022904e271ae76e"
+  },
+  "tconst": "tt2178772",
+  "titleType": "tvEpisode",
+  "primaryTitle": "Dark Wings, Dark Words",
+  "originalTitle": "Dark Wings, Dark Words",
+  "isAdult": "0",
+  "startYear": "2013",
+  "endYear": "\\N",
+  "runtimeMinutes": "56",
+  "genres": "Action,Adventure,Drama"
+},{
+  "_id": {
+    "$oid": "61b64a66c022904e271ae76f"
+  },
+  "tconst": "tt2178802",
+  "titleType": "tvEpisode",
+  "primaryTitle": "Walk of Punishment",
+  "originalTitle": "Walk of Punishment",
+  "isAdult": "0",
+  "startYear": "2013",
+  "endYear": "\\N",
+  "runtimeMinutes": "56",
+  "genres": "Action,Adventure,Drama"
+},{
+  "_id": {
+    "$oid": "61b64a66c022904e271ae770"
+  },
+  "tconst": "tt2178798",
+  "titleType": "tvEpisode",
+  "primaryTitle": "And Now His Watch Is Ended",
+  "originalTitle": "And Now His Watch Is Ended",
+  "isAdult": "0",
+  "startYear": "2013",
+  "endYear": "\\N",
+  "runtimeMinutes": "53",
+  "genres": "Action,Adventure,Drama"
+},{
+  "_id": {
+    "$oid": "61b64a66c022904e271ae771"
+  },
+  "tconst": "tt2178788",
+  "titleType": "tvEpisode",
+  "primaryTitle": "Kissed by Fire",
+  "originalTitle": "Kissed by Fire",
+  "isAdult": "0",
+  "startYear": "2013",
+  "endYear": "\\N",
+  "runtimeMinutes": "57",
+  "genres": "Action,Adventure,Drama"
+},{
+  "_id": {
+    "$oid": "61b64a66c022904e271ae772"
+  },
+  "tconst": "tt2178812",
+  "titleType": "tvEpisode",
+  "primaryTitle": "The Climb",
+  "originalTitle": "The Climb",
+  "isAdult": "0",
+  "startYear": "2013",
+  "endYear": "\\N",
+  "runtimeMinutes": "53",
+  "genres": "Action,Adventure,Drama"
+},{
+  "_id": {
+    "$oid": "61b64a66c022904e271ae773"
+  },
+  "tconst": "tt2178814",
+  "titleType": "tvEpisode",
+  "primaryTitle": "The Bear and the Maiden Fair",
+  "originalTitle": "The Bear and the Maiden Fair",
+  "isAdult": "0",
+  "startYear": "2013",
+  "endYear": "\\N",
+  "runtimeMinutes": "58",
+  "genres": "Action,Adventure,Drama"
+},{
+  "_id": {
+    "$oid": "61b64a66c022904e271ae774"
+  },
+  "tconst": "tt2178806",
+  "titleType": "tvEpisode",
+  "primaryTitle": "Second Sons",
+  "originalTitle": "Second Sons",
+  "isAdult": "0",
+  "startYear": "2013",
+  "endYear": "\\N",
+  "runtimeMinutes": "56",
+  "genres": "Action,Adventure,Drama"
+},{
+  "_id": {
+    "$oid": "61b64a66c022904e271ae775"
+  },
+  "tconst": "tt2178784",
+  "titleType": "tvEpisode",
+  "primaryTitle": "The Rains of Castamere",
+  "originalTitle": "The Rains of Castamere",
+  "isAdult": "0",
+  "startYear": "2013",
+  "endYear": "\\N",
+  "runtimeMinutes": "51",
+  "genres": "Action,Adventure,Drama"
+},{
+  "_id": {
+    "$oid": "61b64a66c022904e271ae776"
+  },
+  "tconst": "tt2178796",
+  "titleType": "tvEpisode",
+  "primaryTitle": "Mhysa",
+  "originalTitle": "Mhysa",
+  "isAdult": "0",
+  "startYear": "2013",
+  "endYear": "\\N",
+  "runtimeMinutes": "63",
+  "genres": "Action,Adventure,Drama"
+},{
+  "_id": {
+    "$oid": "61b64a66c022904e271ae777"
+  },
+  "tconst": "tt2816136",
+  "titleType": "tvEpisode",
+  "primaryTitle": "Two Swords",
+  "originalTitle": "Two Swords",
+  "isAdult": "0",
+  "startYear": "2014",
+  "endYear": "\\N",
+  "runtimeMinutes": "58",
+  "genres": "Action,Adventure,Drama"
+},{
+  "_id": {
+    "$oid": "61b64a66c022904e271ae778"
+  },
+  "tconst": "tt2832378",
+  "titleType": "tvEpisode",
+  "primaryTitle": "The Lion and the Rose",
+  "originalTitle": "The Lion and the Rose",
+  "isAdult": "0",
+  "startYear": "2014",
+  "endYear": "\\N",
+  "runtimeMinutes": "52",
+  "genres": "Action,Adventure,Drama"
+},{
+  "_id": {
+    "$oid": "61b64a66c022904e271ae779"
+  },
+  "tconst": "tt2972426",
+  "titleType": "tvEpisode",
+  "primaryTitle": "Breaker of Chains",
+  "originalTitle": "Breaker of Chains",
+  "isAdult": "0",
+  "startYear": "2014",
+  "endYear": "\\N",
+  "runtimeMinutes": "57",
+  "genres": "Action,Adventure,Drama"
+},{
+  "_id": {
+    "$oid": "61b64a66c022904e271ae77a"
+  },
+  "tconst": "tt2972428",
+  "titleType": "tvEpisode",
+  "primaryTitle": "Oathkeeper",
+  "originalTitle": "Oathkeeper",
+  "isAdult": "0",
+  "startYear": "2014",
+  "endYear": "\\N",
+  "runtimeMinutes": "55",
+  "genres": "Action,Adventure,Drama"
+},{
+  "_id": {
+    "$oid": "61b64a66c022904e271ae77b"
+  },
+  "tconst": "tt3060856",
+  "titleType": "tvEpisode",
+  "primaryTitle": "First of His Name",
+  "originalTitle": "First of His Name",
+  "isAdult": "0",
+  "startYear": "2014",
+  "endYear": "\\N",
+  "runtimeMinutes": "53",
+  "genres": "Action,Adventure,Drama"
+},{
+  "_id": {
+    "$oid": "61b64a66c022904e271ae77c"
+  },
+  "tconst": "tt3060910",
+  "titleType": "tvEpisode",
+  "primaryTitle": "The Laws of Gods and Men",
+  "originalTitle": "The Laws of Gods and Men",
+  "isAdult": "0",
+  "startYear": "2014",
+  "endYear": "\\N",
+  "runtimeMinutes": "51",
+  "genres": "Action,Adventure,Drama"
+},{
+  "_id": {
+    "$oid": "61b64a66c022904e271ae77d"
+  },
+  "tconst": "tt3060876",
+  "titleType": "tvEpisode",
+  "primaryTitle": "Mockingbird",
+  "originalTitle": "Mockingbird",
+  "isAdult": "0",
+  "startYear": "2014",
+  "endYear": "\\N",
+  "runtimeMinutes": "51",
+  "genres": "Action,Adventure,Drama"
+},{
+  "_id": {
+    "$oid": "61b64a66c022904e271ae77e"
+  },
+  "tconst": "tt3060782",
+  "titleType": "tvEpisode",
+  "primaryTitle": "The Mountain and the Viper",
+  "originalTitle": "The Mountain and the Viper",
+  "isAdult": "0",
+  "startYear": "2014",
+  "endYear": "\\N",
+  "runtimeMinutes": "52",
+  "genres": "Action,Adventure,Drama"
+},{
+  "_id": {
+    "$oid": "61b64a66c022904e271ae77f"
+  },
+  "tconst": "tt3060858",
+  "titleType": "tvEpisode",
+  "primaryTitle": "The Watchers on the Wall",
+  "originalTitle": "The Watchers on the Wall",
+  "isAdult": "0",
+  "startYear": "2014",
+  "endYear": "\\N",
+  "runtimeMinutes": "51",
+  "genres": "Action,Adventure,Drama"
+},{
+  "_id": {
+    "$oid": "61b64a66c022904e271ae780"
+  },
+  "tconst": "tt3060860",
+  "titleType": "tvEpisode",
+  "primaryTitle": "The Children",
+  "originalTitle": "The Children",
+  "isAdult": "0",
+  "startYear": "2014",
+  "endYear": "\\N",
+  "runtimeMinutes": "65",
+  "genres": "Action,Adventure,Drama"
+},{
+  "_id": {
+    "$oid": "61b64a66c022904e271ae781"
+  },
+  "tconst": "tt3658012",
+  "titleType": "tvEpisode",
+  "primaryTitle": "The Wars to Come",
+  "originalTitle": "The Wars to Come",
+  "isAdult": "0",
+  "startYear": "2015",
+  "endYear": "\\N",
+  "runtimeMinutes": "53",
+  "genres": "Action,Adventure,Drama"
+},{
+  "_id": {
+    "$oid": "61b64a66c022904e271ae782"
+  },
+  "tconst": "tt3846626",
+  "titleType": "tvEpisode",
+  "primaryTitle": "The House of Black and White",
+  "originalTitle": "The House of Black and White",
+  "isAdult": "0",
+  "startYear": "2015",
+  "endYear": "\\N",
+  "runtimeMinutes": "56",
+  "genres": "Action,Adventure,Drama"
+},{
+  "_id": {
+    "$oid": "61b64a66c022904e271ae783"
+  },
+  "tconst": "tt3866836",
+  "titleType": "tvEpisode",
+  "primaryTitle": "High Sparrow",
+  "originalTitle": "High Sparrow",
+  "isAdult": "0",
+  "startYear": "2015",
+  "endYear": "\\N",
+  "runtimeMinutes": "60",
+  "genres": "Action,Adventure,Drama"
+},{
+  "_id": {
+    "$oid": "61b64a66c022904e271ae784"
+  },
+  "tconst": "tt3866838",
+  "titleType": "tvEpisode",
+  "primaryTitle": "Sons of the Harpy",
+  "originalTitle": "Sons of the Harpy",
+  "isAdult": "0",
+  "startYear": "2015",
+  "endYear": "\\N",
+  "runtimeMinutes": "51",
+  "genres": "Action,Adventure,Drama"
+},{
+  "_id": {
+    "$oid": "61b64a66c022904e271ae785"
+  },
+  "tconst": "tt3866840",
+  "titleType": "tvEpisode",
+  "primaryTitle": "Kill the Boy",
+  "originalTitle": "Kill the Boy",
+  "isAdult": "0",
+  "startYear": "2015",
+  "endYear": "\\N",
+  "runtimeMinutes": "57",
+  "genres": "Action,Adventure,Drama"
+},{
+  "_id": {
+    "$oid": "61b64a66c022904e271ae786"
+  },
+  "tconst": "tt3866842",
+  "titleType": "tvEpisode",
+  "primaryTitle": "Unbowed, Unbent, Unbroken",
+  "originalTitle": "Unbowed, Unbent, Unbroken",
+  "isAdult": "0",
+  "startYear": "2015",
+  "endYear": "\\N",
+  "runtimeMinutes": "54",
+  "genres": "Action,Adventure,Drama"
+},{
+  "_id": {
+    "$oid": "61b64a66c022904e271ae787"
+  },
+  "tconst": "tt3866846",
+  "titleType": "tvEpisode",
+  "primaryTitle": "The Gift",
+  "originalTitle": "The Gift",
+  "isAdult": "0",
+  "startYear": "2015",
+  "endYear": "\\N",
+  "runtimeMinutes": "59",
+  "genres": "Action,Adventure,Drama"
+},{
+  "_id": {
+    "$oid": "61b64a66c022904e271ae788"
+  },
+  "tconst": "tt3866850",
+  "titleType": "tvEpisode",
+  "primaryTitle": "Hardhome",
+  "originalTitle": "Hardhome",
+  "isAdult": "0",
+  "startYear": "2015",
+  "endYear": "\\N",
+  "runtimeMinutes": "61",
+  "genres": "Action,Adventure,Drama"
+},{
+  "_id": {
+    "$oid": "61b64a66c022904e271ae789"
+  },
+  "tconst": "tt3866826",
+  "titleType": "tvEpisode",
+  "primaryTitle": "The Dance of Dragons",
+  "originalTitle": "The Dance of Dragons",
+  "isAdult": "0",
+  "startYear": "2015",
+  "endYear": "\\N",
+  "runtimeMinutes": "52",
+  "genres": "Action,Adventure,Drama"
+},{
+  "_id": {
+    "$oid": "61b64a66c022904e271ae78a"
+  },
+  "tconst": "tt3866862",
+  "titleType": "tvEpisode",
+  "primaryTitle": "Mother's Mercy",
+  "originalTitle": "Mother's Mercy",
+  "isAdult": "0",
+  "startYear": "2015",
+  "endYear": "\\N",
+  "runtimeMinutes": "60",
+  "genres": "Action,Adventure,Drama"
+},{
+  "_id": {
+    "$oid": "61b64a66c022904e271ae78b"
+  },
+  "tconst": "tt3658014",
+  "titleType": "tvEpisode",
+  "primaryTitle": "The Red Woman",
+  "originalTitle": "The Red Woman",
+  "isAdult": "0",
+  "startYear": "2016",
+  "endYear": "\\N",
+  "runtimeMinutes": "50",
+  "genres": "Action,Adventure,Drama"
+},{
+  "_id": {
+    "$oid": "61b64a66c022904e271ae78c"
+  },
+  "tconst": "tt4077554",
+  "titleType": "tvEpisode",
+  "primaryTitle": "Home",
+  "originalTitle": "Home",
+  "isAdult": "0",
+  "startYear": "2016",
+  "endYear": "\\N",
+  "runtimeMinutes": "54",
+  "genres": "Action,Adventure,Drama"
+},{
+  "_id": {
+    "$oid": "61b64a66c022904e271ae78d"
+  },
+  "tconst": "tt4131606",
+  "titleType": "tvEpisode",
+  "primaryTitle": "Oathbreaker",
+  "originalTitle": "Oathbreaker",
+  "isAdult": "0",
+  "startYear": "2016",
+  "endYear": "\\N",
+  "runtimeMinutes": "52",
+  "genres": "Action,Adventure,Drama"
+},{
+  "_id": {
+    "$oid": "61b64a66c022904e271ae78e"
+  },
+  "tconst": "tt4283016",
+  "titleType": "tvEpisode",
+  "primaryTitle": "Book of the Stranger",
+  "originalTitle": "Book of the Stranger",
+  "isAdult": "0",
+  "startYear": "2016",
+  "endYear": "\\N",
+  "runtimeMinutes": "59",
+  "genres": "Action,Adventure,Drama"
+},{
+  "_id": {
+    "$oid": "61b64a66c022904e271ae78f"
+  },
+  "tconst": "tt4283028",
+  "titleType": "tvEpisode",
+  "primaryTitle": "The Door",
+  "originalTitle": "The Door",
+  "isAdult": "0",
+  "startYear": "2016",
+  "endYear": "\\N",
+  "runtimeMinutes": "57",
+  "genres": "Action,Adventure,Drama"
+},{
+  "_id": {
+    "$oid": "61b64a66c022904e271ae790"
+  },
+  "tconst": "tt4283054",
+  "titleType": "tvEpisode",
+  "primaryTitle": "Blood of My Blood",
+  "originalTitle": "Blood of My Blood",
+  "isAdult": "0",
+  "startYear": "2016",
+  "endYear": "\\N",
+  "runtimeMinutes": "52",
+  "genres": "Action,Adventure,Drama"
+},{
+  "_id": {
+    "$oid": "61b64a66c022904e271ae791"
+  },
+  "tconst": "tt4283060",
+  "titleType": "tvEpisode",
+  "primaryTitle": "The Broken Man",
+  "originalTitle": "The Broken Man",
+  "isAdult": "0",
+  "startYear": "2016",
+  "endYear": "\\N",
+  "runtimeMinutes": "51",
+  "genres": "Action,Adventure,Drama"
+},{
+  "_id": {
+    "$oid": "61b64a66c022904e271ae792"
+  },
+  "tconst": "tt4283074",
+  "titleType": "tvEpisode",
+  "primaryTitle": "No One",
+  "originalTitle": "No One",
+  "isAdult": "0",
+  "startYear": "2016",
+  "endYear": "\\N",
+  "runtimeMinutes": "59",
+  "genres": "Action,Adventure,Drama"
+},{
+  "_id": {
+    "$oid": "61b64a66c022904e271ae793"
+  },
+  "tconst": "tt4283088",
+  "titleType": "tvEpisode",
+  "primaryTitle": "Battle of the Bastards",
+  "originalTitle": "Battle of the Bastards",
+  "isAdult": "0",
+  "startYear": "2016",
+  "endYear": "\\N",
+  "runtimeMinutes": "60",
+  "genres": "Action,Adventure,Drama"
+},{
+  "_id": {
+    "$oid": "61b64a66c022904e271ae794"
+  },
+  "tconst": "tt4283094",
+  "titleType": "tvEpisode",
+  "primaryTitle": "The Winds of Winter",
+  "originalTitle": "The Winds of Winter",
+  "isAdult": "0",
+  "startYear": "2016",
+  "endYear": "\\N",
+  "runtimeMinutes": "68",
+  "genres": "Action,Adventure,Drama"
+},{
+  "_id": {
+    "$oid": "61b64a66c022904e271ae795"
+  },
+  "tconst": "tt5654088",
+  "titleType": "tvEpisode",
+  "primaryTitle": "Dragonstone",
+  "originalTitle": "Dragonstone",
+  "isAdult": "0",
+  "startYear": "2017",
+  "endYear": "\\N",
+  "runtimeMinutes": "59",
+  "genres": "Action,Adventure,Drama"
+},{
+  "_id": {
+    "$oid": "61b64a66c022904e271ae796"
+  },
+  "tconst": "tt5655178",
+  "titleType": "tvEpisode",
+  "primaryTitle": "Stormborn",
+  "originalTitle": "Stormborn",
+  "isAdult": "0",
+  "startYear": "2017",
+  "endYear": "\\N",
+  "runtimeMinutes": "59",
+  "genres": "Action,Adventure,Drama"
+},{
+  "_id": {
+    "$oid": "61b64a66c022904e271ae797"
+  },
+  "tconst": "tt5775840",
+  "titleType": "tvEpisode",
+  "primaryTitle": "The Queen's Justice",
+  "originalTitle": "The Queen's Justice",
+  "isAdult": "0",
+  "startYear": "2017",
+  "endYear": "\\N",
+  "runtimeMinutes": "63",
+  "genres": "Action,Adventure,Drama"
+},{
+  "_id": {
+    "$oid": "61b64a66c022904e271ae798"
+  },
+  "tconst": "tt5775846",
+  "titleType": "tvEpisode",
+  "primaryTitle": "The Spoils of War",
+  "originalTitle": "The Spoils of War",
+  "isAdult": "0",
+  "startYear": "2017",
+  "endYear": "\\N",
+  "runtimeMinutes": "50",
+  "genres": "Action,Adventure,Drama"
+},{
+  "_id": {
+    "$oid": "61b64a66c022904e271ae799"
+  },
+  "tconst": "tt5775854",
+  "titleType": "tvEpisode",
+  "primaryTitle": "Eastwatch",
+  "originalTitle": "Eastwatch",
+  "isAdult": "0",
+  "startYear": "2017",
+  "endYear": "\\N",
+  "runtimeMinutes": "59",
+  "genres": "Action,Adventure,Drama"
+},{
+  "_id": {
+    "$oid": "61b64a66c022904e271ae79a"
+  },
+  "tconst": "tt5775864",
+  "titleType": "tvEpisode",
+  "primaryTitle": "Beyond the Wall",
+  "originalTitle": "Beyond the Wall",
+  "isAdult": "0",
+  "startYear": "2017",
+  "endYear": "\\N",
+  "runtimeMinutes": "70",
+  "genres": "Action,Adventure,Drama"
+},{
+  "_id": {
+    "$oid": "61b64a66c022904e271ae79b"
+  },
+  "tconst": "tt5775874",
+  "titleType": "tvEpisode",
+  "primaryTitle": "The Dragon and the Wolf",
+  "originalTitle": "The Dragon and the Wolf",
+  "isAdult": "0",
+  "startYear": "2017",
+  "endYear": "\\N",
+  "runtimeMinutes": "80",
+  "genres": "Action,Adventure,Drama"
+},{
+  "_id": {
+    "$oid": "61b64a66c022904e271ae79c"
+  },
+  "tconst": "tt5924366",
+  "titleType": "tvEpisode",
+  "primaryTitle": "Winterfell",
+  "originalTitle": "Winterfell",
+  "isAdult": "0",
+  "startYear": "2019",
+  "endYear": "\\N",
+  "runtimeMinutes": "54",
+  "genres": "Action,Adventure,Drama"
+},{
+  "_id": {
+    "$oid": "61b64a66c022904e271ae79d"
+  },
+  "tconst": "tt6027908",
+  "titleType": "tvEpisode",
+  "primaryTitle": "A Knight of the Seven Kingdoms",
+  "originalTitle": "A Knight of the Seven Kingdoms",
+  "isAdult": "0",
+  "startYear": "2019",
+  "endYear": "\\N",
+  "runtimeMinutes": "58",
+  "genres": "Action,Adventure,Drama"
+},{
+  "_id": {
+    "$oid": "61b64a66c022904e271ae79e"
+  },
+  "tconst": "tt6027912",
+  "titleType": "tvEpisode",
+  "primaryTitle": "The Long Night",
+  "originalTitle": "The Long Night",
+  "isAdult": "0",
+  "startYear": "2019",
+  "endYear": "\\N",
+  "runtimeMinutes": "82",
+  "genres": "Action,Adventure,Drama"
+},{
+  "_id": {
+    "$oid": "61b64a66c022904e271ae79f"
+  },
+  "tconst": "tt6027914",
+  "titleType": "tvEpisode",
+  "primaryTitle": "The Last of the Starks",
+  "originalTitle": "The Last of the Starks",
+  "isAdult": "0",
+  "startYear": "2019",
+  "endYear": "\\N",
+  "runtimeMinutes": "78",
+  "genres": "Action,Adventure,Drama"
+},{
+  "_id": {
+    "$oid": "61b64a66c022904e271ae7a0"
+  },
+  "tconst": "tt6027916",
+  "titleType": "tvEpisode",
+  "primaryTitle": "The Bells",
+  "originalTitle": "The Bells",
+  "isAdult": "0",
+  "startYear": "2019",
+  "endYear": "\\N",
+  "runtimeMinutes": "78",
+  "genres": "Action,Adventure,Drama"
+},{
+  "_id": {
+    "$oid": "61b64a66c022904e271ae7a1"
+  },
+  "tconst": "tt6027920",
+  "titleType": "tvEpisode",
+  "primaryTitle": "The Iron Throne",
+  "originalTitle": "The Iron Throne",
+  "isAdult": "0",
+  "startYear": "2019",
+  "endYear": "\\N",
+  "runtimeMinutes": "80",
+  "genres": "Action,Adventure,Drama"
+}]
